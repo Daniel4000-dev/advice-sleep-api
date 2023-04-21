@@ -25,7 +25,7 @@ function Header() {
         >
           <div className='w-screen shadow-md bg-white dark:bg-gray-800 dark:text-white'>
             <div className="flex container mx-auto align-center">
-                <h1 className="font-bold flex align-center pl-2 text-xl">Advice Sleep Program</h1>
+                <h1 className="font-bold flex align-center pl-2 text-xl">Advice Slip Program</h1>
                 <div className='pr-2 ml-auto font-medium'>
                     <button className='text-green-200' onClick={() => toggleDarkMode()}>{toggleBtn}</button>
                 </div>
